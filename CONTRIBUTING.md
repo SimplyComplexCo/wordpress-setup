@@ -11,7 +11,12 @@ Please note we have a code of conduct, please follow it in all your interactions
    build.
 2. Update the README.md with details of changes to the interface, this includes new environment
    variables, exposed ports, useful file locations and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this
+3. Update the contributors list in the README.md using [github-contribtors-list](https://github.com/mgechev/github-contributors-list)
+   ```
+    githubcontrib --owner SimplyComplexCo --repo wordpress-setup --cols 6 --showlogin true | pbcopy
+   ```
+   then paste the result into the contributors section of the README.md
+4. Increase the version numbers in any examples files and the README.md to the new version that this
    Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
 
 ## Code of Conduct

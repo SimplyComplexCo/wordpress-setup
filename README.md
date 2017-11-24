@@ -69,9 +69,10 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for details on our code of cond
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
-
-* **Paul Ryan** - *Initial work* - [Paullryan](https://github.com/paullryan)
+## Authors/Contributors
+[<img alt="paullryan" src="https://avatars2.githubusercontent.com/u/3146164?v=4&s=117" width="117">](https://github.com/paullryan) |
+:---: |
+[paullryan](https://github.com/paullryan) |
 
 ## License
 
