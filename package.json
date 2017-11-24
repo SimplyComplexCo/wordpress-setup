@@ -1,5 +1,5 @@
 {
-  "name": "wordpress-setup",
+  "name": "@simplycomplex/wordpress-setup",
   "version": "1.0.0",
   "main": "src/wordpress-setup.ts",
   "license": "MIT",
@@ -23,6 +23,9 @@
     "typescript": "^2.6.1",
     "xmldom": "^0.1.27",
     "xpath": "^0.0.24"
+  },
+  "engines": {
+    "node": ">8.0"
   },
   "scripts": {
     "create": "ts-node .",
